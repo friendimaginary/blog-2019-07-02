@@ -70,8 +70,8 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "Patryk Soika"
-    defaultKeywords = ["data", "science"]
-    defaultDescription = "it's where I vent"
+    defaultKeywords = ["data", "science", "[R]"]
+    defaultDescription = "The Exhaust Pipe: it's where I vent."
 
     # Twitter
     twitter = "friendimaginary"
@@ -96,7 +96,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "patryk@gmx.us"
     contact_form_ajax = false
 
     about_us = "<blockquote>Si non prius succederent;<br />quod est unum punctum datum.</blockquote>"
